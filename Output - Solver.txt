@@ -1,0 +1,162 @@
+Pattern Database 8 puzzle - load from data file success : 0.203s
+Enter 9 number from 0 to 8 :
+0 1 2 3 4 5 6 7 8
+Total Time 0.003
+Minimum number of moves = 22
+If you want to view the details:
+Enter 1 for list of moves, 2 for display each move, other number to skip.
+0
+
+Ready to exit? (If not, it will prompt to enter another data set.)
+0 1 2 3 4 5 6 7 8
+Enter 9 number from 0 to 8 :
+0
+Total Time 0.0
+Minimum number of moves = 0
+
+Ready to exit? (If not, it will prompt to enter another data set.)
+n
+Enter 9 number from 0 to 8 :
+0 1 2 3 4 5 6 7 8
+Total Time 0.0
+Minimum number of moves = 22
+If you want to view the details:
+Enter 1 for list of moves, 2 for display each move, other number to skip.
+1
+1 : RIGHT 2 : DOWN 3 : LEFT 4 : DOWN 5 : RIGHT 6 : RIGHT 7 : UP 8 : LEFT 9 : LEFT 10 : DOWN 
+11 : RIGHT 12 : UP 13 : UP 14 : RIGHT 15 : DOWN 16 : DOWN 17 : LEFT 18 : LEFT 19 : UP 20 : RIGHT 
+21 : RIGHT 22 : DOWN 
+
+Ready to exit? (If not, it will prompt to enter another data set.)
+m
+Enter 9 number from 0 to 8 :
+0 1 2 3 4 5 6 7 8
+Total Time 0.001
+Minimum number of moves = 22
+If you want to view the details:
+Enter 1 for list of moves, 2 for display each move, other number to skip.
+2
+Step : 0
+ 0  1  2 
+ 3  4  5 
+ 6  7  8 
+
+Step : 1    DOWN
+ 3  1  2 
+ 0  4  5 
+ 6  7  8 
+
+Step : 2    RIGHT
+ 3  1  2 
+ 4  0  5 
+ 6  7  8 
+
+Step : 3    RIGHT
+ 3  1  2 
+ 4  5  0 
+ 6  7  8 
+
+Step : 4    UP
+ 3  1  0 
+ 4  5  2 
+ 6  7  8 
+
+Step : 5    LEFT
+ 3  0  1 
+ 4  5  2 
+ 6  7  8 
+
+Step : 6    LEFT
+ 0  3  1 
+ 4  5  2 
+ 6  7  8 
+
+Step : 7    DOWN
+ 4  3  1 
+ 0  5  2 
+ 6  7  8 
+
+Step : 8    DOWN
+ 4  3  1 
+ 6  5  2 
+ 0  7  8 
+
+Step : 9    RIGHT
+ 4  3  1 
+ 6  5  2 
+ 7  0  8 
+
+Step : 10   UP
+ 4  3  1 
+ 6  0  2 
+ 7  5  8 
+
+Step : 11   UP
+ 4  0  1 
+ 6  3  2 
+ 7  5  8 
+
+Step : 12   RIGHT
+ 4  1  0 
+ 6  3  2 
+ 7  5  8 
+
+Step : 13   DOWN
+ 4  1  2 
+ 6  3  0 
+ 7  5  8 
+
+Step : 14   LEFT
+ 4  1  2 
+ 6  0  3 
+ 7  5  8 
+
+Step : 15   LEFT
+ 4  1  2 
+ 0  6  3 
+ 7  5  8 
+
+Step : 16   UP
+ 0  1  2 
+ 4  6  3 
+ 7  5  8 
+
+Step : 17   RIGHT
+ 1  0  2 
+ 4  6  3 
+ 7  5  8 
+
+Step : 18   RIGHT
+ 1  2  0 
+ 4  6  3 
+ 7  5  8 
+
+Step : 19   DOWN
+ 1  2  3 
+ 4  6  0 
+ 7  5  8 
+
+Step : 20   LEFT
+ 1  2  3 
+ 4  0  6 
+ 7  5  8 
+
+Step : 21   DOWN
+ 1  2  3 
+ 4  5  6 
+ 7  0  8 
+
+Step : 22   RIGHT
+ 1  2  3 
+ 4  5  6 
+ 7  8  0 
+
+Ready to exit? (If not, it will prompt to enter another data set.)
+n
+Enter 9 number from 0 to 8 :
+0 1 2 3 4 5 6 8 7
+No solution possible
+
+Ready to exit? (If not, it will prompt to enter another data set.)
+y
+Goodbye!

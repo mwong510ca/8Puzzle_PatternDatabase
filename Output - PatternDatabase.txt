@@ -1,0 +1,42 @@
+Screen full pattern : 1 2 3
+                      4 5 6
+                      7 8 0
+moves : 0 	count : 1	scanned : 1 	 end at : 0.0
+moves : 1	count : 2	scanned : 3	 end at : 0.001
+moves : 2	count : 4	scanned : 7	 end at : 0.001
+moves : 3	count : 8	scanned : 15	 end at : 0.001
+moves : 4	count : 16	scanned : 31	 end at : 0.002
+moves : 5	count : 20	scanned : 51	 end at : 0.002
+moves : 6	count : 39	scanned : 90	 end at : 0.002
+moves : 7	count : 62	scanned : 152	 end at : 0.003
+moves : 8	count : 116	scanned : 268	 end at : 0.003
+moves : 9	count : 152	scanned : 420	 end at : 0.004
+moves : 10	count : 286	scanned : 706	 end at : 0.006
+moves : 11	count : 396	scanned : 1102	 end at : 0.009
+moves : 12	count : 748	scanned : 1850	 end at : 0.013
+moves : 13	count : 1024	scanned : 2874	 end at : 0.02
+moves : 14	count : 1893	scanned : 4767	 end at : 0.026
+moves : 15	count : 2512	scanned : 7279	 end at : 0.037
+moves : 16	count : 4485	scanned : 11764	 end at : 0.051
+moves : 17	count : 5638	scanned : 17402	 end at : 0.061
+moves : 18	count : 9529	scanned : 26931	 end at : 0.075
+moves : 19	count : 10878	scanned : 37809	 end at : 0.095
+moves : 20	count : 16993	scanned : 54802	 end at : 0.127
+moves : 21	count : 17110	scanned : 71912	 end at : 0.18
+moves : 22	count : 23952	scanned : 95864	 end at : 0.187
+moves : 23	count : 20224	scanned : 116088	 end at : 0.199
+moves : 24	count : 24047	scanned : 140135	 end at : 0.209
+moves : 25	count : 15578	scanned : 155713	 end at : 0.215
+moves : 26	count : 14560	scanned : 170273	 end at : 0.223
+moves : 27	count : 6274	scanned : 176547	 end at : 0.228
+moves : 28	count : 3910	scanned : 180457	 end at : 0.252
+moves : 29	count : 760	scanned : 181217	 end at : 0.254
+moves : 30	count : 221	scanned : 181438	 end at : 0.254
+moves : 31	count : 2	scanned : 181440	 end at : 0.254
+
+Pattern Database 8 puzzle - generate data set complete : 0.286s
+Pattern Database 8 puzzle - save data set in file success : 6.321s
+
+—————————
+
+Pattern Database 8 puzzle - load from data file success : 0.213s
